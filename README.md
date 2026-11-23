@@ -22,7 +22,7 @@
   <img src="https://komarev.com/ghpvc/?username=callmechits&label=profile%20views&color=7aa2f7&style=for-the-badge" alt="profile views" />
   <!-- Codeforces: swap YOUR_HANDLE for your handle (both spots) -->
   <a href="https://codeforces.com/profile/callmechits">
-    <img src="https://img.shields.io/badge/Codeforces-YOUR_HANDLE-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-callmechits-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <!-- Portfolio: uncomment once own-website is live on Cloudflare Pages
   <a href="https://YOUR_DOMAIN">
