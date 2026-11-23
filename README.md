@@ -2,7 +2,6 @@
   ============================================================
   callmechits / README.md: GitHub profile README
   Goes in the repo named exactly: callmechits/callmechits
-  Everything inside <!-- ... --> is invisible on GitHub.
   Theme: Tokyo Night (accent #7aa2f7). To retheme, change
   "tokyonight" / "tokyo-night" and the hex colors below.
   ============================================================
