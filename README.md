@@ -24,11 +24,11 @@
   <a href="https://codeforces.com/profile/callmechits">
     <img src="https://img.shields.io/badge/Codeforces-YOUR_HANDLE-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  < Portfolio: uncomment once own-website is live on Cloudflare Pages
+  <!-- Portfolio: uncomment once own-website is live on Cloudflare Pages
   <a href="https://YOUR_DOMAIN">
     <img src="https://img.shields.io/badge/Website-YOUR_DOMAIN-7aa2f7?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Website" />
   </a>
-  >
+  -->
 </p>
 
 ---
