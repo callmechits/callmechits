@@ -52,7 +52,7 @@ struct Chits {
         "Hardware that blinks, beeps, or moves",      // ESP32s, Arduinos, LEDs
     };
 
-    string status = "probably debugging an ESP32";    // updated never, accurate always
+    string status = "probably deep diving in a rabbit hole";    // updated never, accurate always
 };
 
 int main() {
@@ -85,13 +85,12 @@ $$
 <!-- Add repo links in the Project column as they go public: [Name](https://github.com/callmechits/REPO) -->
 | | Project | What it is | Stack |
 |:-:|---|---|---|
-| 🧪 | **Gesture AR Periodic Table** | Browse the elements by hand gestures, live off a webcam | Python · OpenCV · MediaPipe · NumPy |
+| 🧪 | **[Gesture AR Periodic Table](https://github.com/callmechits/periodic_table_3D)** | Browse the elements by hand gestures, live off a webcam | Python · OpenCV · MediaPipe · NumPy |
 | 💡 | **Voice-Triggered LED Strip** | "Hey Siri" → WS2812B strip lights up | ESP32 · WLED |
 | 📝 | **[Mock-2](https://github.com/callmechits/Mock-2)** | JEE Main mock test platform | Supabase · Cloudflare |
-| 🚗 | **ELEGOO Robot Car** | Smart Robot Car V4.0, programmed from scratch | Arduino · C++ |
-| 🎬 | **Anime Edit Pipeline** | Auto-cuts character-arc edits: lore scraping + LLM pacing → render | Python · LLMs · FFmpeg |
-| 🗡️ | **Echoes of the Void** | Terminal dungeon crawler | Python · rich · pyfiglet |
-| 🌐 | **own-website** | Personal site: professor vibes, unreasonably large type | Static · Cloudflare Pages |
+| 🚗 | **[ELEGOO Robot Car](https://github.com/callmechits/NeuralCarNetwork)** | Smart Robot Car V4.0, programmed from scratch | Arduino · C++ |
+| 🗡️ | **Echoes of the Void** | Terminal dungeon crawler | Python · rich · pyfiglet | Lives on my laptop, not for the general public |
+| 🌐 | **[personal-website](https://chits.chitrumehra683.workers.dev/)** | Personal site: professor vibes, unreasonably large type | Static · Cloudflare Pages |
 
 ---
 
