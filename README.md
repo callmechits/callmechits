@@ -24,11 +24,6 @@
   <a href="https://codeforces.com/profile/callmechits">
     <img src="https://img.shields.io/badge/Codeforces-callmechits-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <!-- Portfolio: uncomment once own-website is live on Cloudflare Pages
-  <a href="https://YOUR_DOMAIN">
-    <img src="https://img.shields.io/badge/Website-YOUR_DOMAIN-7aa2f7?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Website" />
-  </a>
-  -->
 </p>
 
 ---
@@ -125,9 +120,4 @@ $$
 <!-- ── FOOTER wave (mirror of the header) ── -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer&text=Have%20fun!%20Bye!!&fontSize=28&fontColor=ffffff&fontAlignY=70" />
 
-<!--
-  NOTE on the stats cards: github-readme-stats' public Vercel instance is
-  shared by everyone and sometimes rate-limits. If cards break, deploy your
-  own free copy (github.com/anuraghazra/github-readme-stats → "Deploy on
-  Vercel") and replace "github-readme-stats.vercel.app" with your URL.
--->
+
