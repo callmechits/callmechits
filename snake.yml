@@ -1,0 +1,42 @@
+# ============================================================
+# snake.yml: generates the "snake eats your contribution grid"
+# animation used in README.md.
+# Location in repo: .github/workflows/snake.yml
+# Output: SVGs pushed to a branch named "output".
+# ============================================================
+
+name: Generate snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # regenerate every 12 hours
+  workflow_dispatch:          # lets you run it manually from the Actions tab
+  push:
+    branches: [main]          # also run on every push to main
+
+permissions:
+  contents: write             # needed to push to the "output" branch
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      # Build the SVGs from your contribution graph
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # Publish dist/ to the "output" branch so README can link to it
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
