@@ -13,7 +13,7 @@
 <!-- ── TYPING ANIMATION: each ";" separates a line, "+" is a space ── -->
 <p align="center">
   <a href="https://github.com/callmechits">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hi!+I'm+Chits+%F0%9F%91%8B;CS+%2B+Math+%40+Purdue+(Class+of+2030);Competitive+programmer+%7C+G%2B%2B20+gang;I+build+things+that+blink+and+track+hands;Proof+by+%22it+compiles%22+%E2%9C%85" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hi!+I'm+Chits+%F0%9F%91%8B;CS+%2B+Math+%40+Purdue+(Class+of+2030);I+build+things+that+blink+and+track+hands;Proof+by+%22it+compiles%22+%E2%9C%85" alt="Typing SVG" />
   </a>
 </p>
 
