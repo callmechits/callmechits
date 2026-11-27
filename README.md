@@ -22,7 +22,7 @@
   <img src="https://komarev.com/ghpvc/?username=callmechits&label=profile%20views&color=7aa2f7&style=for-the-badge" alt="profile views" />
   <!-- Codeforces: swap YOUR_HANDLE for your handle (both spots) -->
   <a href="https://haunt.gg/chits">
-    <img src="https://img.shields.io/badge/Haunt-7aa2f7)" alt="Home Page" />
+    <img src="https://img.shields.io/badge/Haunt-7aa2f7" alt="Home Page" />
   </a>
 </p>
 
